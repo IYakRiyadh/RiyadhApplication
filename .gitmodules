@@ -2,6 +2,9 @@
 [submodule "Riyadh-App"]
 	path = RiyadhApplication
 	url = https://github.com/IYakRiyadh/Riyadh-App.git
-[submodule "Mobile App/praktik3"]
-	path = Mobile App/praktik3
+[submodule "Mobile-App/praktik3"]
+	path = Mobile-App/praktik3
 	url = https://github.com/IYakRiyadh/Riyadh-Ruzaini---Project_UAS.git
+[submodule "Web_app/praktik1"]
+	path = Web_app/praktik1
+	url = https://github.com/IYakRiyadh/dashboard.github.io.git
