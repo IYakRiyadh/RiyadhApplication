@@ -1,0 +1,7 @@
+
+[submodule "Riyadh-App"]
+	path = RiyadhApplication
+	url = https://github.com/IYakRiyadh/Riyadh-App.git
+[submodule "Mobile App/praktik3"]
+	path = Mobile App/praktik3
+	url = https://github.com/IYakRiyadh/Riyadh-Ruzaini---Project_UAS.git

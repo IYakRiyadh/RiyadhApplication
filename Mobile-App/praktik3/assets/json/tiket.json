@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nama": "kereta",
+    "dari": {
+      "surabaya": "Surabaya",
+      "bandung": "Bandung",
+      "jakarta": "Jakarata"
+    },
+    "tujun": {
+      "surabaya": "Surabaya",
+      "bandung": "Bandung",
+      "jakarta": "Jakarata"
+    }
+  },
+  {
+    "id": "2",
+    "nama": "Bus",
+    "dari": {
+      "surabaya": "Surabaya",
+      "bandung": "Bandung",
+      "jakarta": "Jakarata"
+    },
+    "tujun": {
+      "surabaya": "Surabaya",
+      "bandung": "Bandung",
+      "jakarta": "Jakarata"
+    }
+  }
+]

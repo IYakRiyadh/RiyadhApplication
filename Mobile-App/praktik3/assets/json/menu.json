@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nama": "Pink Chair",
+    "image": "https://ucarecdn.com/1c0fcc30-c008-4837-83d8-ed951354b2a3/img1.jpg",
+    "detailImg": "https://ucarecdn.com/1c0fcc30-c008-4837-83d8-ed951354b2a3/img1.jpg",
+    "namaImg": "Pink Chair",
+    "harga": "IDR 4.00.000-",
+    "deskripsi": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat seat and a back-rest. They may be made of wood, metal, or synthetic materials,"
+  },
+  {
+    "id": 2,
+    "nama": "Forest Mood Chair",
+    "image": "https://ucarecdn.com/14db4d87-c515-4d98-89d0-f82663c03c29/img2.jpg",
+    "detailImg": "https://ucarecdn.com/14db4d87-c515-4d98-89d0-f82663c03c29/img2.jpg",
+    "namaImg": "Pink Chair",
+    "harga": "IDR 1.400.000-",
+    "deskripsi": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat seat and a back-rest. They may be made of wood, metal, or synthetic materials,"
+  },
+  {
+    "id": 3,
+    "nama": "Viecon Dinning Chair",
+    "image": "https://ucarecdn.com/86633a1b-cfd4-4581-9438-1bb65ac7d759/img3.jpg",
+    "detailImg": "https://ucarecdn.com/86633a1b-cfd4-4581-9438-1bb65ac7d759/img3.jpg",
+    "namaImg": "Pink Chair",
+    "harga": "IDR 2.000.000-",
+    "deskripsi": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat seat and a back-rest. They may be made of wood, metal, or synthetic materials,"
+  },
+  {
+    "id": 4,
+    "nama": "Black Chair 1",
+    "image": "https://ucarecdn.com/3caf90e8-af14-4ba7-a9e1-0e184476bfb9/img4.jpg",
+    "detailImg": "https://ucarecdn.com/3caf90e8-af14-4ba7-a9e1-0e184476bfb9/img4.jpg",
+    "namaImg": "Pink Chair",
+    "harga": "IDR 400.000-",
+    "deskripsi": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat seat and a back-rest. They may be made of wood, metal, or synthetic materials,"
+  },
+  {
+    "id": 5,
+    "nama": "Black Chair 2",
+    "image": "https://ucarecdn.com/54b5118c-d661-4132-9ad6-b6f07ec72725/img5.jpg",
+    "detailImg": "https://ucarecdn.com/54b5118c-d661-4132-9ad6-b6f07ec72725/img5.jpg",
+    "namaImg": "Pink Chair",
+    "harga": "IDR 260.000-",
+    "deskripsi": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat seat and a back-rest. They may be made of wood, metal, or synthetic materials,"
+  },
+  {
+    "id": 6,
+    "nama": "Premium Gaming Chair",
+    "image": "https://ucarecdn.com/7129cd8f-d6be-4c70-85f7-2c254bb2fbe6/img6.jpg",
+    "detailImg": "https://ucarecdn.com/7129cd8f-d6be-4c70-85f7-2c254bb2fbe6/img6.jpg",
+    "namaImg": "Pink Chair",
+    "harga": "IDR 950.000-",
+    "deskripsi": "A chair is a type of seat, typically designed for one person and consisting of one or more legs, a flat seat and a back-rest. They may be made of wood, metal, or synthetic materials,"
+  }
+]

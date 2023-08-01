@@ -1,0 +1,2 @@
+url = https://uaspab.000webhostapp.com/
+sandi_db = rnyi|hWZmdddOD0~ 
