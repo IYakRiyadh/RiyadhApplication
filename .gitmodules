@@ -8,3 +8,6 @@
 [submodule "Web_app/praktik1"]
 	path = Web_app/praktik1
 	url = https://github.com/IYakRiyadh/dashboard.github.io.git
+[submodule "Web_app/praktik2"]
+	path = Web_app/praktik2
+	url = https://github.com/iyakzain/Buku-Riyadh-Ruzaini_1.git
