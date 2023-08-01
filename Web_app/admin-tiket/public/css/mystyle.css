@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    position: relative;
+    align-items: center;
+    height: 100vh;
+}
+
+
+@media (min-width: 768px) {
+    .loginForm {
+        display: block;
+        margin: auto;
+        width: 40%;
+        padding: 0;
+    }
+.card-form {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+    .row div.card-ilus {
+        display: flex;
+        column-gap: 2rem;
+    }
+
+
+}
+
+
+
+
+
+@media (max-width: 767.98px) {
+    .loginForm {
+        display: block;
+        margin: auto;
+        width: 75%;
+        padding: 4px;
+    }
+
+    .card-form {
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+}
