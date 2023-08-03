@@ -11,3 +11,6 @@
 [submodule "Web_app/praktik2"]
 	path = Web_app/praktik2
 	url = https://github.com/iyakzain/Buku-Riyadh-Ruzaini_1.git
+[submodule "Web_app/praktik4"]
+	path = Web_app/praktik4
+	url = https://github.com/brodybits/create-react-native-module.git
