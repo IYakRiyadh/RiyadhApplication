@@ -1,0 +1,215 @@
+body {
+  background-image: url(img/BG/—Pngtree—white\ 3d\ paper\ style\ background_1300812.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin-top: 10px;
+}
+
+* {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav .navbar-brand {
+  font-weight: bold;
+  animation: movedown 1s linear 1;
+  animation-delay: 1.5s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+
+@keyframes movedown {
+  0% {
+    transform: translateY(-100px);
+    visibility: visible;
+  }
+  100% {
+    transform: translateY(0px);
+    visibility: visible;
+  }
+}
+
+.collapse ul li a {
+  padding-right: 100px;
+  margin-right: -20px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+.collapse ul li a:hover {
+  color: rgb(113, 210, 255);
+  cursor: pointer;
+}
+
+.collapse ul.navbar-nav li.nav-item a.nav-link1 {
+  animation: movedown 1s linear 1;
+  animation-delay: 2s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+.collapse ul.navbar-nav li.nav-item a.nav-link2 {
+  animation: movedown 1s linear 1;
+  animation-delay: 2.5s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+.collapse ul.navbar-nav li.nav-item a.nav-link3 {
+  animation: movedown 1s linear 1;
+  animation-delay: 3s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+.collapse ul.navbar-nav li.nav-item a.nav-link4 {
+  animation: movedown 1s linear 1;
+  animation-delay: 3.5s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+  /* border-bottom: 2px solid #0d6dfd8a;
+  border-radius: 5px; */
+}
+
+/* .collapse ul.navbar-nav li.nav-item4:hover,
+.collapse ul.navbar-nav li.nav-item4:focus {
+  color: rgb(243, 118, 139);
+  cursor: pointer;
+} */
+
+/* #Project {
+  background-color: #ffffff5b;
+} */
+
+section {
+  padding-top: 5rem;
+}
+
+svg {
+  color: #569ef0;
+  padding: 0;
+}
+.svg_jumbotron {
+  color: #569ef0ec;
+  margin-left: 50;
+  margin-right: 50;
+  margin-top: -400px;
+  width: 100%;
+  position: absolute;
+}
+
+footer {
+  padding-bottom: 1rem;
+  margin-top: -1px;
+}
+
+.jumbotron {
+  border: 2px solid transparent;
+  padding: 25px;
+  background: url(img/BG/jae-bano-Xbf_4e7YDII-unsplash.jpg);
+  background-size: 500px 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -20px;
+}
+
+.jumbotron img {
+  margin-top: 230px;
+  animation: zoomin 1s linear 1;
+  animation-delay: 3.8s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+
+@keyframes zoomin {
+  0% {
+    transform: scale(0.5);
+    visibility: visible;
+  }
+  100% {
+    transform: scale(1);
+    visibility: visible;
+  }
+}
+.jumbotron h1 {
+  animation: zoomin 1s linear 1;
+  animation-delay: 4.5s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+
+.jumbotron p {
+  animation: zoomin 1s linear 1;
+  animation-delay: 5s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+
+.jumbotron h1 strong {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder bold;
+  margin-top: 4pt;
+  font-size: 25pt;
+  margin-left: -10px;
+  color: transparent;
+  -webkit-text-stroke: 1px #b1afaf;
+  background: url(img/back.png);
+  background-color: #0d6dfdd3;
+  -webkit-background-clip: text;
+  background-position: 0 0;
+  animation: back 10s linear infinite;
+}
+
+@keyframes back {
+  100% {
+    background-position: 2000px 0;
+  }
+}
+
+.container h2 {
+  margin-top: 15px;
+  border-bottom: #000000;
+  border-bottom-style: double;
+  border-bottom-width: medium;
+  /* color: transparent; */
+  lighting-color: skyblue;
+  -webkit-text-stroke: 1px #000000a6;
+  text-shadow: 4px 4px 4px #646464;
+  animation: zoomin 2s linear forwards;
+  animation-delay: 2s;
+  visibility: hidden;
+  animation-fill-mode: forwards;
+}
+
+.container label {
+  /* lighting-color: skyblue; */
+  color: #000000;
+}
+
+/* .container .row p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder bold;
+  margin-top: 4pt;
+} */
+.container .aboutme {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 4pt;
+  text-align: justify;
+}
+
+.sosmedwa button {
+  border-style: none;
+  border-color: transparent;
+  border-radius: 60px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  float: right;
+}
+.sosmedwa button img {
+  width: 100px;
+  height: 100px;
+  margin: 0px;
+  margin-right: -26px;
+  margin-left: -26px;
+  margin-top: -26px;
+  margin-bottom: -26px;
+}
